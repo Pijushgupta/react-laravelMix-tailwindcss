@@ -1,9 +1,9 @@
 # Install
 
-## clone the repo
+### clone the repo
 
-## cd into repo directory
+### cd into repo directory
 
-## npm install
+### npm install
 
-## npx run watch/--production/dev
+### npx run watch/--production/dev
